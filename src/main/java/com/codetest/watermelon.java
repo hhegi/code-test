@@ -2,6 +2,7 @@ package com.codetest;
 import java.util.*;
 
 public class watermelon {
+    //프로그래머스 수박수박수박수박수박수?
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
